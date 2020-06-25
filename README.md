@@ -14,7 +14,7 @@ Vscodeの上部に現れるcreate new branchをクリック
 branch nameに課題の名前を入力　（例 submit_test,loop_name  
 ![image](https://user-images.githubusercontent.com/65803294/85736528-86c07480-b739-11ea-990d-0cb110a0d91c.png)
 
-この状態でhtml,jsファイルを作成する
+この状態で課題名ファイルを作成し，その中でhtmlやjsの作成
 
 # 課題の提出方法（分からない場合も含む）
 
