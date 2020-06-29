@@ -36,4 +36,4 @@ Githubのissueを確認すると質問への返信を確認できます
 
 #ほかのブランチのデータの確認方法
 下の図のように、github上で他のブランチのコードを確認できる。
-![how to look branch](https://user-images.githubusercontent.com/54886961/86006573-22f7bd80-ba51-11ea-922c-2a0563170ae6.png)
+![how to look branch](https://user-images.githubusercontent.com/54886961/86006811-7d911980-ba51-11ea-9fb4-ea8969afed9e.png)
